@@ -20,10 +20,7 @@
 
 ---
 
-## Folder Navigation
-- **If you are not inside the `challenge_1b` folder**, run:
-  ```bash
-  cd challenge_1b
+
 
 
 ## How to Build and Run
